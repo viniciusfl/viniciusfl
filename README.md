@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="225"/>
 </div>
 
 <div id="badges" align="center">
@@ -20,14 +20,15 @@
 </h1>
 
 ### :blossom: About me :
+<a>
+    Computer Science student at University of São Paulo
 
-Computer Science student at University of São Paulo
+    - :computer: My favorite subject is Artificial Inteligence.
 
-- :computer: My favorite subject is Artificial Inteligence.
+    - :zap: In my free time, I solve problems on LeetCode.
 
-- :zap: In my free time, I solve problems on LeetCode.
-
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ferraz-lima/)
+    - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ferraz-lima/)
+</a>
 
 ---
 
@@ -45,6 +46,9 @@ Computer Science student at University of São Paulo
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>;
 </div>
+
+
+---
 
 ### :fire: My Stats :
 <div>
