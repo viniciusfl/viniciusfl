@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="150"/>
 </div>
 
 <div id="badges" align="center">
@@ -18,13 +18,6 @@
   Hi!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-### :fire: My Stats :
-<div>
-    <a href="https://github.com/viniciusfl">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfl&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 ### :blossom: About me :
 
@@ -53,3 +46,9 @@ Computer Science student at University of São Paulo
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>;
 </div>
 
+### :fire: My Stats :
+<div>
+    <a href="https://github.com/viniciusfl">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusfl&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=viniciusfl&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
