@@ -1,9 +1,6 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
 
 
-</br>
-</br>
-
 <div id="badges" align="right">
     <a href="https://www.linkedin.com/in/vinicius-ferraz-lima">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
@@ -13,18 +10,14 @@
     </a>
 <div id="badges">
 
-</br>
-</br>
-
-
-
-<h1>
+<h1 align="left">
 Hi!
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
 </br>
 </br>
+
 ### :blossom: About me:
 <div display="inline-block">
  <p align="left">Computer Science student at University of São Paulo</a>;</p>
