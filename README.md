@@ -1,8 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif" width="225"/>
-</div>
+<img align="right" width="250px" style="margin-top:-20px" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
 
-<div id="badges" align="center">
+
+</br>
+</br>
+
+<div id="badges" align="inline-block">
     <a href="https://www.linkedin.com/in/vinicius-ferraz-lima">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
@@ -11,26 +13,29 @@
     </a>
 <div id="badges">
 
+</br>
+</br>
 
-<img src="https://komarev.com/ghpvc/?usernameviniciusfle=flat-square&color=blue" alt=""/>
+
 
 <h1>
-  Hi!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+Hi!
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :blossom: About me :
-<a>
-    Computer Science student at University of São Paulo
+</br>
+</br>
+### :blossom: About me:
+<div display="inline-block">
+ <p align="left">Computer Science student at University of São Paulo</a>;</p>
+ <p align="left">:computer: My favorite subject is Artificial Inteligence.</p>
+ <p align="left">🎮 I love games and Linux</p>
+</div>
 
-    - :computer: My favorite subject is Artificial Inteligence.
 
-    - :zap: In my free time, I solve problems on LeetCode.
 
-    - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vinicius-ferraz-lima/)
-</a>
-
----
+<br>
+<b>
 
 ### :hammer_and_wrench: Languages and Tools :
 
@@ -48,7 +53,9 @@
 </div>
 
 
----
+<br>
+<br>
+<br>
 
 ### :fire: My Stats :
 <div>
