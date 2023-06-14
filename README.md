@@ -1,10 +1,9 @@
-<img align="right" width="250px" style="margin-top:-20px" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
+<img align="right" width="220px" style="margin-top:-20px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 <br>
 <br>
 <div id="badges" align="inline-block">
-    <h1> Hi! </h1>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <h1> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
     <a href="https://www.linkedin.com/in/vinicius-ferraz-lima">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
@@ -13,8 +12,7 @@
     </a>
 <div id="badges">
 
-</br>
-</br>
+
 </br>
 </br>
 </br>
@@ -26,7 +24,6 @@
  <p align="left">🎮 I love games, cats and Linux!</p>
 </div>
 
-<br>
 
 <div align="inline-block">
   <h2>Languages and Tools</h2>
@@ -41,8 +38,6 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>;
 </div>
-
-<br>
 
 <div align="inline-block">
     <h2>Languages and Tools </h2>
