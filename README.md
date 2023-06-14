@@ -4,7 +4,7 @@
 </br>
 </br>
 
-<div id="badges" align="inline-block">
+<div id="badges" align="right">
     <a href="https://www.linkedin.com/in/vinicius-ferraz-lima">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
