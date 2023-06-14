@@ -1,7 +1,8 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
 
-
 <div id="badges" align="right">
+    <h1> Hi! </h1>
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <a href="https://www.linkedin.com/in/vinicius-ferraz-lima">
         <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
@@ -10,29 +11,24 @@
     </a>
 <div id="badges">
 
-<h1 align="left">
-Hi!
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
+</br>
 </br>
 </br>
 
 ### :blossom: About me:
-<div display="inline-block">
+<div display="inlin">
  <p align="left">Computer Science student at University of São Paulo</a>;</p>
  <p align="left">:computer: My favorite subject is Artificial Inteligence.</p>
  <p align="left">🎮 I love games and Linux</p>
 </div>
 
 
-
 <br>
-<b>
+<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 
-<div>
+<div align="left">
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -49,6 +45,7 @@ Hi!
 <br>
 <br>
 <br>
+
 
 ### :fire: My Stats :
 <div>
