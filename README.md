@@ -1,5 +1,7 @@
 <img align="right" width="250px" style="margin-top:-20px" src="https://media.giphy.com/media/gjrYDwbjnK8x36xZIO/giphy.gif">
 
+<br>
+<br>
 <div id="badges" align="inline-block">
     <h1> Hi! </h1>
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -19,16 +21,12 @@
 
 <div display="inline-block">
 <h2> About me:</h2>
- <p align="left">Computer Science student at University of São Paulo</a>;</p>
- <p align="left">:computer: My favorite subject is Artificial Inteligence.</p>
- <p align="left">🎮 I love games and Linux</p>
+ <p align="left">Computer Science student at University of São Paulo, currently looking for a job</a>;</p>
+ <p align="left">:computer: My favorite subject is Artificial Inteligence</p>
+ <p align="left">🎮 I love games, cats and Linux!</p>
 </div>
 
-
 <br>
-<br>
-
-### :hammer_and_wrench:  :
 
 <div align="inline-block">
   <h2>Languages and Tools</h2>
@@ -44,9 +42,6 @@
   <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/npm/npm-original-wordmark.svg" title="NPM" alt="NPM" width="40" height="40"/>;
 </div>
 
-
-<br>
-<br>
 <br>
 
 <div align="inline-block">
