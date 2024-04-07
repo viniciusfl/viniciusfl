@@ -8,14 +8,6 @@
     </a>
 <div id="badges">
 
-
-</br>
-</br>
-</br>
-
-<img align="center" width="220px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-
-
 <div display="inline-block">
 <h2> About me:</h2>
  <p align="left">Computer Science student at University of São Paulo, currently looking for a job</a>;</p>
