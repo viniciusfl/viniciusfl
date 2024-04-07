@@ -1,7 +1,3 @@
-<img align="right" width="220px" style="margin-top:-20px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
-
-<br>
-<br>
 <div id="badges" align="inline-block">
     <h1> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
     <a href="https://www.linkedin.com/in/vinicius-ferraz-lima">
@@ -16,6 +12,9 @@
 </br>
 </br>
 </br>
+
+<img align="right" width="220px" style="margin-center:-20px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+
 
 <div display="inline-block">
 <h2> About me:</h2>
