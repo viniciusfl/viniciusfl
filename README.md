@@ -13,7 +13,7 @@
 </br>
 </br>
 
-<img align="right" width="220px" style="margin-center:-20px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
+<img align="center" width="220px" src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif">
 
 
 <div display="inline-block">
